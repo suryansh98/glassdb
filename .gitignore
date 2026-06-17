@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.db
+*.db-wal
+*.jsonl
+!xray/public/demo-trace.jsonl
+*.exe
+docs/superpowers/
